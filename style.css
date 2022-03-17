@@ -1,0 +1,79 @@
+
+.mynav{
+    background: #18342f;
+}
+
+.mynavimg{
+    background: black;
+}
+.hero{
+    background: #18342f;
+    padding: 350px 0;
+    color: white;
+    
+}
+
+.our-program{
+    display: flex;
+    justify-content: space-evenly;
+
+    
+}
+
+.about{
+    background: #f1dddd;
+}
+
+.about-vid{
+    background: #18342f;
+}
+
+.msa{
+    background:#e2e4c1;
+}
+
+.team-info{
+    display: flex;
+    justify-content: right;
+}
+.storyread{
+    text-decoration: none;
+    color: red;
+}
+
+.hiring{
+    background: #18342f;
+}
+
+.nate{
+    background: #f4f4f4;
+}
+
+.nate-item{
+    margin-left: 150px;
+}
+
+.footer{
+    background: #f4f4f4;
+    border-bottom: 30px solid #f5db40;
+}
+
+.footercont{
+    padding: 50px 0px 20px 0px;
+    
+    margin-left: 111px;
+}
+.subscribe{
+    padding: 0px 0px 50px 50px; 
+    margin-left: 60px;
+
+}
+
+.nav{
+    padding: 0px 0px 50px 50px; 
+    margin-left: 90px;
+}
+
+.copyright{
+    margin-left: 100px;
+}
