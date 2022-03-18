@@ -1,2 +1,2 @@
 # foundersfactory
-None responsive clone of foundersfactory.com using html, css and bootstrap
+None responsive clone of https://foundersfactory.com/ using html, css and bootstrap
